@@ -1,4 +1,4 @@
-# Breast-Cancer-Classification-
+# Heart-Disease-Classification-
 **Problem Definition**
 
 The problem we will be exploring is binary classification (a sample can only be one of two things).
